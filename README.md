@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liamgoreski
 - 👀 I’m interested in Finance and Coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a beginner project to learn a solid foundation
+- 💞️ I’m looking to collaborate on a beginner project to learn a solid beginner foundation
 - 📫 How to reach me on email at liamgoreski.i@gmail.com
 
 <!---
